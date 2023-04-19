@@ -1,0 +1,65 @@
+.container {
+    border-style: double;
+    border-width: thick;
+    border-color: rgb(32, 32, 227);
+    color: white
+    
+}
+.linkContainer {
+    text-align: center;
+    align-self: center;
+    border-style: dotted;
+    border-color: rgb(150, 14, 14);
+    
+}
+.links {
+    text-decoration: none;
+    color:blue;     
+    text-align: center;
+}
+
+.general {
+    color: "white";
+}
+
+body {
+    background-color: #323338;
+}
+
+h1 {
+    text-decoration:  wavy underline;
+    color:rgb(0, 0, 0)
+}
+
+.imageContainer {
+    color: white;
+    font-size: 8;
+    border-style: double;
+    border-width: thick;
+    border-color: white;
+}
+
+.videoContainer {
+    color: white;
+    font-size: 8;
+    border-style: double;
+    border-width: thick;
+    border-color: white;
+}
+
+.textArea {
+    background-color: #323338;
+    color: white;
+}
+
+tr {
+    border: 2px solid black;
+}
+
+table {
+    border: 2px solid black;
+}
+
+td {
+    border: 2px solid black;
+}
